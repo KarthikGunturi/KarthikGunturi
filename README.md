@@ -1,0 +1,7 @@
+- 👋 Hi, I’m [Karthik Gunturi](https://github.com/KarthikGunturi)
+- 👀 I’m interested in Software Development, particularly Java and web technologies.
+- 🌱 I’m currently learning advanced topics in Java, frontend, and cloud technologies.
+- 💞️ I’m looking to collaborate on open-source projects, particularly in Java, Spring Boot, and cloud-based systems.
+- 📫 How to reach me: [email](mailto:karthikgunturi1999@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love coding, but I also enjoy playing chess and watching soccer!
